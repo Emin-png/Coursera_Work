@@ -1,0 +1,73 @@
+#first_div{
+    background-color: grey;
+    border: 2px solid black;
+    padding-bottom: 25px;
+}
+#navbarNav{
+    visibility: hidden;
+}
+#brand{
+    font-size: x-large;
+}
+#Menu{
+    text-align: center;
+    color: red;
+}
+#chicken{
+    text-align: center;
+}
+#first-option{
+    margin-top: 70px;
+    margin-left: 40px;
+    background-color: grey;
+}
+#beef{
+    text-align: center;
+}
+#second-option{
+    margin-top: 70px;
+    margin-left: 40px;
+    background-color: grey;
+}
+#sushi{
+    text-align: center;
+}
+p{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#third-option{
+    margin-top: 70px;
+    margin-left: 40px;
+    background-color: grey;
+}
+@media (max-width:576px){
+    #first-id{
+        background-color: whitesmoke;
+        border: 1px solid black;
+    }
+    #navbarNav{
+        visibility: visible;
+    }
+    #second-id{
+        background-color: whitesmoke;
+        border: 1px solid black;
+    }
+    #third-id{
+        background-color: whitesmoke;
+        border: 1px solid black;
+    }
+    a{
+        color: black;
+        text-align: center;
+    }
+    #chicken{
+        text-align: center;
+    }
+    #first-option{
+        margin-top: 70px;
+        margin-right: 40px;
+        margin-left: 40px;
+        background-color: grey;
+    }
+}
